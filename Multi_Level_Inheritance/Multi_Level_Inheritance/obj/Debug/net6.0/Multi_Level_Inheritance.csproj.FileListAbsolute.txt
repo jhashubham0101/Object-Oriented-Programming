@@ -1,0 +1,15 @@
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\bin\Debug\net6.0\Multi_Level_Inheritance.exe
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\bin\Debug\net6.0\Multi_Level_Inheritance.deps.json
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\bin\Debug\net6.0\Multi_Level_Inheritance.runtimeconfig.json
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\bin\Debug\net6.0\Multi_Level_Inheritance.dll
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\bin\Debug\net6.0\Multi_Level_Inheritance.pdb
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.csproj.AssemblyReference.cache
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.AssemblyInfo.cs
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.dll
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\refint\Multi_Level_Inheritance.dll
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.pdb
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\Multi_Level_Inheritance.genruntimeconfig.cache
+C:\Users\ShubhamKumarJha\source\repos\Multi_Level_Inheritance\Multi_Level_Inheritance\obj\Debug\net6.0\ref\Multi_Level_Inheritance.dll

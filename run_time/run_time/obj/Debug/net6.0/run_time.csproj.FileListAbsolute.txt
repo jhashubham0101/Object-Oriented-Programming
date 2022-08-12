@@ -1,0 +1,15 @@
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\bin\Debug\net6.0\run_time.exe
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\bin\Debug\net6.0\run_time.deps.json
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\bin\Debug\net6.0\run_time.runtimeconfig.json
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\bin\Debug\net6.0\run_time.dll
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\bin\Debug\net6.0\run_time.pdb
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.csproj.AssemblyReference.cache
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.AssemblyInfoInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.AssemblyInfo.cs
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.csproj.CoreCompileInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.dll
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\refint\run_time.dll
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.pdb
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\run_time.genruntimeconfig.cache
+C:\Users\ShubhamKumarJha\source\repos\run_time\run_time\obj\Debug\net6.0\ref\run_time.dll

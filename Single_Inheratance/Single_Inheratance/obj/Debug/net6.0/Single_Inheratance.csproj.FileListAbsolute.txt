@@ -1,0 +1,15 @@
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.csproj.AssemblyReference.cache
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.AssemblyInfoInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.AssemblyInfo.cs
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.csproj.CoreCompileInputs.cache
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\bin\Debug\net6.0\Single_Inheratance.exe
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\bin\Debug\net6.0\Single_Inheratance.deps.json
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\bin\Debug\net6.0\Single_Inheratance.runtimeconfig.json
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\bin\Debug\net6.0\Single_Inheratance.dll
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\bin\Debug\net6.0\Single_Inheratance.pdb
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.dll
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\refint\Single_Inheratance.dll
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.pdb
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\Single_Inheratance.genruntimeconfig.cache
+C:\Users\ShubhamKumarJha\source\repos\Single_Inheratance\Single_Inheratance\obj\Debug\net6.0\ref\Single_Inheratance.dll
